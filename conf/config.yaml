@@ -1,0 +1,11 @@
+server_settings:
+  listen_address: 0.0.0.0:8080
+database_settings:
+  mongodb_dsn:
+azure_settings:
+  account: 
+  account_secret: 
+  private_container:
+  public_container:
+file_settings:
+  max_size: 52428800

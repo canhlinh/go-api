@@ -1,0 +1,13 @@
+package: github.com/mobile-health/go-api
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/fvbock/endless
+- package: github.com/gin-gonic/gin
+- package: github.com/nicksnyder/go-i18n
+  subpackages:
+  - i18n
+- package: github.com/oklog/ulid
+- package: goji.io
+  subpackages:
+  - pat
+- package: gopkg.in/yaml.v2

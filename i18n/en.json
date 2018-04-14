@@ -1,0 +1,6 @@
+[
+    {
+        "id": "unexpected.app_error",
+        "translation":"An unexpected error has occurred. {{ .Message }}"
+    }
+]
